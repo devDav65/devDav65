@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 290" width="800" height="290">
+<title>Ce que j'apprends / What I'm learning</title>
+<rect x="1" y="1" width="798" height="288" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="32" font-family="Courier New, monospace" font-size="17" font-weight="700" fill="#FFCE00">$ ./learning --progress</text>
+<text x="20" y="56" font-family="Courier New, monospace" font-size="15" fill="#e6edf3">Java / Spring Boot</text>
+<text x="780" y="56" text-anchor="end" font-family="Courier New, monospace" font-size="15" fill="#00C26E">65%</text>
+<rect x="20" y="64" width="760" height="12" rx="6" fill="#21262d"/>
+<rect x="20" y="64" width="494" height="12" rx="6" fill="#00C26E"><animate attributeName="width" values="0;494;494;0" keyTimes="0;0.3;0.9;1" dur="9s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="20" y="102" font-family="Courier New, monospace" font-size="15" fill="#e6edf3">Cybersécurité</text>
+<text x="780" y="102" text-anchor="end" font-family="Courier New, monospace" font-size="15" fill="#D21034">40%</text>
+<rect x="20" y="110" width="760" height="12" rx="6" fill="#21262d"/>
+<rect x="20" y="110" width="304" height="12" rx="6" fill="#D21034"><animate attributeName="width" values="0;304;304;0" keyTimes="0;0.3;0.9;1" dur="9s" begin="0.4s" repeatCount="indefinite"/></rect>
+<text x="20" y="148" font-family="Courier New, monospace" font-size="15" fill="#e6edf3">Linux / Arch / Hyprland</text>
+<text x="780" y="148" text-anchor="end" font-family="Courier New, monospace" font-size="15" fill="#FFCE00">75%</text>
+<rect x="20" y="156" width="760" height="12" rx="6" fill="#21262d"/>
+<rect x="20" y="156" width="570" height="12" rx="6" fill="#FFCE00"><animate attributeName="width" values="0;570;570;0" keyTimes="0;0.3;0.9;1" dur="9s" begin="0.8s" repeatCount="indefinite"/></rect>
+<text x="20" y="194" font-family="Courier New, monospace" font-size="15" fill="#e6edf3">Docker &amp; DevOps</text>
+<text x="780" y="194" text-anchor="end" font-family="Courier New, monospace" font-size="15" fill="#2496ED">55%</text>
+<rect x="20" y="202" width="760" height="12" rx="6" fill="#21262d"/>
+<rect x="20" y="202" width="418" height="12" rx="6" fill="#2496ED"><animate attributeName="width" values="0;418;418;0" keyTimes="0;0.3;0.9;1" dur="9s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="20" y="240" font-family="Courier New, monospace" font-size="15" fill="#e6edf3">Redis &amp; PostgreSQL</text>
+<text x="780" y="240" text-anchor="end" font-family="Courier New, monospace" font-size="15" fill="#a371f7">60%</text>
+<rect x="20" y="248" width="760" height="12" rx="6" fill="#21262d"/>
+<rect x="20" y="248" width="456" height="12" rx="6" fill="#a371f7"><animate attributeName="width" values="0;456;456;0" keyTimes="0;0.3;0.9;1" dur="9s" begin="1.6s" repeatCount="indefinite"/></rect>
+</svg>
